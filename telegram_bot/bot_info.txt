@@ -1,0 +1,2 @@
+t.me/ic333_bot - way to find the bot
+7462905168:AAH5pNNOA9sfEejp8EFJypZsdTfdKusJ9uo - token to access the HTTP API
